@@ -1,16 +1,24 @@
-# game_tv
+# Game TV
 
-A new Flutter project.
+This is a sample app I worked to showcase basic code practices and code standards 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Download APK for this project at :
+[GameTVSample.apk](https://drive.google.com/file/d/1CznKuyMjHqzlPR1AQpjA-wpnUSsuMezk/view?usp=sharing)
+[![Launcher Icon](Screenshots/launcher.png?raw=true "launcher")](https://drive.google.com/file/d/1CznKuyMjHqzlPR1AQpjA-wpnUSsuMezk/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+A few Usernames to log in the app
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- JaniceB
+- Woody
+- Cosmic
+- BillyJ
+
+For password, you can enter 123456 to login
+
+#Few Screenshots for the application
+![LoginScreen](Screenshots/Screenshot1.png?raw=true "Login Screen")
+![Loading animation still](Screenshots/Screenshot2.png?raw=true "Loading")
+![Loaded results](Screenshots/Screenshot3.png?raw=true "Loaded Results")
