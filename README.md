@@ -19,6 +19,9 @@ A few Usernames to log in the app
 For password, you can enter 123456 to login
 
 #Few Screenshots for the application
+
+<img src="Screenshots/Screenshot1.png" width="200">
+
 ![LoginScreen](Screenshots/Screenshot1.png?raw=true "Login Screen")
 ![Loading animation still](Screenshots/Screenshot2.png?raw=true "Loading")
 ![Loaded results](Screenshots/Screenshot3.png?raw=true "Loaded Results")
